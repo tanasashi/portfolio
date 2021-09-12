@@ -1,14 +1,33 @@
-         ___        ______     ____ _                 _  ___
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/
- -----------------------------------------------------------------
+# 日本全国のスポーツ観戦復習！！
+
+## サイト概要
+始めていく競技場やスタジアムの情報について知りたい方
+
+### サイトテーマ
+初めての場所を初めてじゃない様に。
+
+### テーマを選んだ理由
+始めていく競技場やスタジアムの情報を前もって知ることでタイムロスなどを減らせれる
+
+### ターゲットユーザ。
+スポーツが好きな方。
+
+### 主な利用シーン
+始めていく競技場やスタジアムのことを事前に知りたい方
+
+## 設計書
 
 
-Hi there! Welcome to AWS Cloud9!
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1nUfLXZU5jf-o4bWw0IXxXA1JJM86wqYX0ebtyN3L86I/edit?usp=sharing
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
